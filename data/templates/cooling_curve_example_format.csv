@@ -1,0 +1,6 @@
+# FORMAT C - one raw thermocouple cooling curve per file.
+# Save your own as e.g. data/cooling_curves/Al10Zn_run1.csv and list it in
+# COOLING_CURVES in Notebook 02. Units: time in s, temperature in degrees C.
+time_s,temperature_C
+# 0.0,700.0
+# 0.5,699.2

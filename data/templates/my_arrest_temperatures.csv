@@ -1,0 +1,8 @@
+# FORMAT A - thermal arrests read off your cooling curves.
+# Copy this file to data/my_arrest_temperatures.csv and replace the example
+# line(s) with your own. Lines starting with '#' are ignored.
+# Units: wt_pct_zn in wt.% Zn; temperatures in degrees C.
+#   liquidus_C      = first arrest / slope change (start of solidification)
+#   final_arrest_C  = last arrest (end of solidification; ~381 C if eutectic forms)
+alloy_label,wt_pct_zn,liquidus_C,final_arrest_C,notes
+# Al-10Zn,10.0,640.0,381.0,EXAMPLE ONLY - delete this line

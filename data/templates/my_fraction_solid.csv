@@ -1,0 +1,6 @@
+# FORMAT B - fraction solid vs temperature (e.g. from DSC or processed cooling curves).
+# Copy this file to data/my_fraction_solid.csv and replace the example line(s).
+# One row per data point; several alloys may share the file (use alloy_label).
+# Units: wt_pct_zn in wt.% Zn; temperature_C in degrees C; fraction_solid 0..1.
+alloy_label,wt_pct_zn,temperature_C,fraction_solid
+# Al-10Zn,10.0,630.0,0.50,
